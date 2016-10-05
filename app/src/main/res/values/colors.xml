@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="header">#ff5722</color>
+    <color name="header">#22b2ff</color>
     
     <color name="text">#ffffff</color>
     <color name="shadow">#505050</color>
@@ -19,7 +19,7 @@
     <!-- background menu -->
     <color name="list_background">#ffffff</color>
     <!-- background menu dipencet -->
-    <color name="list_background_pressed">#FF9800</color>
+    <color name="list_background_pressed">#97e6ec</color>
 
     <!-- jarak antar menu -->
     <color name="list_divider">#C3C3C3</color>

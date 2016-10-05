@@ -7,10 +7,14 @@
 	    <LinearLayout
 	        android:id="@+id/lytSearch"
 	        android:layout_width="fill_parent"
-	        android:layout_height="45dp"
+	        android:layout_height="50dp"
 	        android:background="@color/header"
 	        android:gravity="center_vertical"
-	        android:visibility="visible" >
+	        android:visibility="visible"
+			android:elevation="5dp"
+			android:paddingTop="5dp"
+			android:paddingBottom="5dp"
+			android:paddingLeft="5dp">
 
 	        <EditText
 	            android:id="@+id/edtKeyword"

@@ -78,7 +78,7 @@ public class ActivityMenuDetail extends Activity {
 
         ActionBar bar = getActionBar();
         bar.setBackgroundDrawable(new ColorDrawable(getResources().getColor(R.color.header)));
-        bar.setTitle("Detail Menu");
+        bar.setTitle("Detalles");
         bar.setDisplayHomeAsUpEnabled(true);
         bar.setHomeButtonEnabled(true);
         
